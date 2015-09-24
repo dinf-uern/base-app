@@ -15,3 +15,16 @@ dinf-uern:loading
 momentjs:moment
 rzymek:moment-locale-pt-br
 bootswatch:paper
+aldeed:simple-schema
+matb33:collection-hooks
+meteorhacks:npm
+
+
+npm-container
+reactive-var
+meteorhacks:aggregate
+maazalik:highcharts
+peppelg:bootstrap-3-modal
+fortawesome:fontawesome
+chrismbeckett:toastr
+betacar:hipchat-notify
